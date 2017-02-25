@@ -1,10 +1,11 @@
-# SpaceAstro
+# SpaceAstro Game Project
 SpaceAstro Game
 
 
-Facebook Page :   https://www.facebook.com/GameDevIS/
 
-Facebook Group :  https://www.facebook.com/groups/GameDevIS/
+Facebook Page :   [GameDevIS Page](https://www.facebook.com/GameDevIS/)
 
-Youtube Channel : https://www.youtube.com/channel/UCmOFgtxWeF5F6VgVPLbfnRw/
+Facebook Group :  [GameDevIS Group](https://www.facebook.com/GameDevIS/)
+
+Youtube Channel : [GameDevIS Youtube](https://www.facebook.com/GameDevIS/)
 
